@@ -2,6 +2,7 @@ services:
   - type: web
     name: flask-video-analyzer
     env: python
+    pythonVersion: 3.10
     plan: free
     branch: main
     buildCommand: pip install -r requirements.txt
