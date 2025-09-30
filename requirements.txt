@@ -1,0 +1,11 @@
+flask
+gunicorn
+opencv-python-headless
+numpy
+keras-facenet
+mtcnn
+imgaug
+werkzeug
+mediapipe
+scipy
+tensorflow==2.15.0
